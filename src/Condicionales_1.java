@@ -20,6 +20,8 @@ public class Condicionales_1 {
             case "ciencia ficcion":
                 System.out.println("Matrix");
                 break;
+            default:
+                System.out.println("Genero no reconocido");
         }
     }
 }
